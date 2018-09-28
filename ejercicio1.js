@@ -1,6 +1,6 @@
 function ocurrencias( numero, arreglo ){
     var cont = 0;
-    for(let i = 0; i<arreglo.lenght ;i++){
+    for(let i = 0; i<arreglo.length ;i++){
         if(numero == arreglo[i]){
             cont++ ;
         }
